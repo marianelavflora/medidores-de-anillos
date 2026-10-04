@@ -6,7 +6,11 @@ Un kit para medir talles de anillo con sistema US, listo para imprimir en 3D. Ti
 2. **Varilla escalonada (mandril)**: para medir un anillo que ya tenés, talles US 1 a 20.
 3. **Medidores sueltos tipo llavero**: uno por talle, US 0 a 16.
 
-> **Uso personal.** Lo armé porque necesitaba un medidor de anillos para saber qué talle regalarle a mi sobrina a medida que va creciendo. Los diseños originales son de otras personas (ver [Créditos](#créditos)). Acá están corregidos y adaptados a mi necesidad.
+<p align="center">
+  <img src="imagenes/uso-personal.svg" width="900" alt="Uso personal: lo armé porque necesitaba un medidor de anillos para saber qué talle regalarle a mi sobrina de 6 años a medida que va creciendo. Los diseños originales son de otras personas (ver Créditos). Acá están corregidos y adaptados a mi necesidad.">
+</p>
+
+<p align="center"><sub>👉 Diseños originales en <a href="#créditos">Créditos</a></sub></p>
 
 ---
 

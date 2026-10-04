@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="215" viewBox="0 0 900 215">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd6e7"/>
+      <stop offset="1" stop-color="#ffc2dc"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="896" height="211" rx="18" fill="url(#bg)" stroke="#f06292" stroke-width="3"/>
+  <rect x="2" y="2" width="14" height="211" rx="7" fill="#ec407a"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#6d1b3f">
+    <text x="44" y="52" font-size="28" font-weight="700" fill="#c2185b">💗 Uso personal</text>
+    <text x="44" y="94" font-size="20">Lo armé porque necesitaba un medidor de anillos para saber qué talle</text>
+    <text x="44" y="124" font-size="20">regalarle a <tspan font-weight="700">mi sobrina de 6 años</tspan> a medida que va creciendo.</text>
+    <text x="44" y="164" font-size="17" fill="#8e3a5f">Los diseños originales son de otras personas (ver Créditos).</text>
+    <text x="44" y="190" font-size="17" fill="#8e3a5f">Acá están corregidos y adaptados a mi necesidad.</text>
+  </g>
+</svg>
